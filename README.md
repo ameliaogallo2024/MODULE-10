@@ -1,6 +1,5 @@
 # Module 10 Assignment: Data Manipulation and Cleaning with Pandas
 
-## Project Title
 **UrbanStyle Customer Data Cleaning**
 
 ## Description
